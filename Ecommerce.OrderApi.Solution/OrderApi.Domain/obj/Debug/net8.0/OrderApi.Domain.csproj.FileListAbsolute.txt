@@ -1,0 +1,11 @@
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+D:\MyProjects\WepAPI\Ecommerce.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll

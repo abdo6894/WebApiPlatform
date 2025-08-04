@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Presentation", "ApiGateway.Presentation\ApiGateway.Presentation.csproj", "{D89D5EE6-07A1-4138-A35A-71E69B9FE34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommrece.sharedliberary", "..\Ecommerce_SharedLiberarySolution\ecommrece.sharedliberary\ecommrece.sharedliberary.csproj", "{BDB92615-38FE-776E-17E9-76CF462E2BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89D5EE6-07A1-4138-A35A-71E69B9FE34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89D5EE6-07A1-4138-A35A-71E69B9FE34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89D5EE6-07A1-4138-A35A-71E69B9FE34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89D5EE6-07A1-4138-A35A-71E69B9FE34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81014C5B-12E9-4152-AAA1-49863BC6D1C5}
+	EndGlobalSection
+EndGlobal

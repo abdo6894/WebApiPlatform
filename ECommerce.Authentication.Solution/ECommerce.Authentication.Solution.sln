@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationApi.Domain", "AuthenticationApi.Domain\AuthenticationApi.Domain.csproj", "{FBC2D204-130F-475C-A7B5-F22947296E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAp.Application", "AuthenticationAp.Application\AuthenticationAp.Application.csproj", "{A892E517-BFE7-43AA-A331-E0405DC2D7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAp.Infrastructure", "AuthenticationAp.Infrastructure\AuthenticationAp.Infrastructure.csproj", "{F6C20173-529E-4E2F-8EB8-A1181FE80569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAp.Representation", "AuthenticationAp.Representation\AuthenticationAp.Representation.csproj", "{B71B0704-96E0-4DBA-A4AF-1AD773441AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommrece.sharedliberary", "..\Ecommerce_SharedLiberarySolution\ecommrece.sharedliberary\ecommrece.sharedliberary.csproj", "{BDB92615-38FE-776E-17E9-76CF462E2BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC2D204-130F-475C-A7B5-F22947296E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC2D204-130F-475C-A7B5-F22947296E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC2D204-130F-475C-A7B5-F22947296E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC2D204-130F-475C-A7B5-F22947296E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A892E517-BFE7-43AA-A331-E0405DC2D7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A892E517-BFE7-43AA-A331-E0405DC2D7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A892E517-BFE7-43AA-A331-E0405DC2D7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A892E517-BFE7-43AA-A331-E0405DC2D7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C20173-529E-4E2F-8EB8-A1181FE80569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C20173-529E-4E2F-8EB8-A1181FE80569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C20173-529E-4E2F-8EB8-A1181FE80569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C20173-529E-4E2F-8EB8-A1181FE80569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71B0704-96E0-4DBA-A4AF-1AD773441AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71B0704-96E0-4DBA-A4AF-1AD773441AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71B0704-96E0-4DBA-A4AF-1AD773441AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71B0704-96E0-4DBA-A4AF-1AD773441AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB92615-38FE-776E-17E9-76CF462E2BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8790294C-2D6B-46FD-92DB-885FF3A9E762}
+	EndGlobalSection
+EndGlobal

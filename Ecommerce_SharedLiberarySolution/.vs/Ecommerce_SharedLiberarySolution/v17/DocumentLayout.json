@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\WepAPI\\Ecommerce_SharedLiberarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4EE04-50E3-4605-87C3-8507BB9F438B}|ecommrece.sharedliberary\\ecommrece.sharedliberary.csproj|d:\\myprojects\\wepapi\\ecommerce_sharedliberarysolution\\ecommrece.sharedliberary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA4EE04-50E3-4605-87C3-8507BB9F438B}|ecommrece.sharedliberary\\ecommrece.sharedliberary.csproj|solutionrelative:ecommrece.sharedliberary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "D:\\MyProjects\\WepAPI\\Ecommerce_SharedLiberarySolution\\ecommrece.sharedliberary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "ecommrece.sharedliberary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "D:\\MyProjects\\WepAPI\\Ecommerce_SharedLiberarySolution\\ecommrece.sharedliberary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "ecommrece.sharedliberary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:02:39.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

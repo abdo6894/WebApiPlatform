@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Ecommerce_SharedLiberarySolution\ecommrece.sharedliberary\ecommrece.sharedliberary.csproj" />
+    <ProjectReference Include="..\Ecommerce_SharedLiberarySolution\ecommrece.sharedliberary\ecommrece.sharedliberary.csproj" />
+    <ProjectReference Include="..\ProductApi.Domain\ProductApi.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

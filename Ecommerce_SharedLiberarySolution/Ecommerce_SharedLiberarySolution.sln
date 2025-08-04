@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommrece.sharedliberary", "ecommrece.sharedliberary\ecommrece.sharedliberary.csproj", "{DAA4EE04-50E3-4605-87C3-8507BB9F438B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA4EE04-50E3-4605-87C3-8507BB9F438B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA4EE04-50E3-4605-87C3-8507BB9F438B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA4EE04-50E3-4605-87C3-8507BB9F438B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA4EE04-50E3-4605-87C3-8507BB9F438B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A821AAB-405F-4494-B1C9-EA006B3E4739}
+	EndGlobalSection
+EndGlobal
